@@ -1,6 +1,6 @@
 # AGRISECURE-PATROL
 Presently most farmers use scarecrows as a mannequin. This method is not very effective since most birds see right through this ploy. Our robot can move around the field providing the impression that someone is on the lookout. 
-Additionally, we have installed high accuracy sensors which produces a loud buzz when it detects irregular activities like motion of birds, hence scaring them away rather efficiently. 
+Additionally, we have installed high accuracy sensors which produces a loud buzz and light flashes when it detects irregular activities like motion of birds, hence scaring them away rather efficiently. 
 On its path it can also spray pesticides on the plants. This reduces human labor significantly and does the same job rather effectively.
 The bot has been enhanced with additional features like:
 	User Alerts to inform users of critical events.
